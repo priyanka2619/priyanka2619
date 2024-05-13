@@ -6,7 +6,7 @@
 
 - ⌨ I’m currently learning & Working on **Full Stack (Angular / React / Python / JENKINS / AWS EC2)**
 
-- 💬 Ask me about **JAVASCRIPT, ANGULAR, REACT**
+- 💬 Ask me about **JAVASCRIPT, ANGULAR, REACT, PYTHON**
 
 - 📫 How to reach me: [priyankachaturvedi295@gmail.com](mailto:priyankachaturvedi295@gmail.com)
 
