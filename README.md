@@ -1,4 +1,4 @@
-<h3 align="center">A Software Engineer battling bugs and spicing up software. Serious fun, seriously!!! </h3>
+<h3 align="center">A Software Engineer battling bugs and spicing up software. Serious fun, seriously!!!  </h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ycgioqq4tc74brqnbghxzue4rd3cu4h83d2b21aw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
