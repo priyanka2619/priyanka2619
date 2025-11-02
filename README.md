@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu577228&label=Profile%20views&color=0e75b6&style=flat" alt="manu577228" /> </p>
 
-- ⌨ I’m currently learning & Working on **Full Stack (Angular / React / Python / JENKINS / AWS EC2)**
+- ⌨ I’m currently learning & Working on **Full Stack (Angular / React / Python / JENKINS / AWS EC2 / API Gateway / Lambda / DynamoDB)**
 
-- 💬 Ask me about **JAVASCRIPT, ANGULAR, REACT, PYTHON**
+- 💬 Ask me about **JAVASCRIPT, ANGULAR, REACT, PYTHON, AWS**
 
 - 📫 How to reach me: [priyankachaturvedi295@gmail.com](mailto:priyankachaturvedi295@gmail.com)
 
